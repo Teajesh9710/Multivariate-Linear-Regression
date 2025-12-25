@@ -43,9 +43,8 @@ print('PredictedCO2 for the corresponding Weight and Volume : ',predictedCO2)
 
 ```
 ## Output:
-Coefficients: [0.00755095 0.00780526]
-Intercept: 79.69471929115939
-PredictedCO2 for the corresponding Weight and Volume :  [114.75968007]
+<img width="678" height="86" alt="image" src="https://github.com/user-attachments/assets/cf033c94-f7a3-4bd5-845b-dd6116bc0fea" />
+
 
 ### Insert your output
 <img width="1060" height="495" alt="image" src="https://github.com/user-attachments/assets/a98587ef-d30e-4852-a492-da0fe98b47a6" />
